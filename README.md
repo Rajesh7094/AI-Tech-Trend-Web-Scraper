@@ -61,3 +61,5 @@ Concurrent processing for faster data fetching
 Text analysis for keyword extraction and trend identification
 Responsive layout that works on different screen sizes
 
+# Live Demo 
+    https://ai-tech-trend-web-scraper-eef2f6h5jgzutudnv2otzo.streamlit.app/
